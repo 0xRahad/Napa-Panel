@@ -1,0 +1,75 @@
+# Visual Studio Code specific files
+.vscode/
+.vscode/*
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider and JetBrains specific files
+.idea/
+*.sln.iml
+
+# ASP.NET and Entity Framework specific
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# Dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Logs and debugging
+*.log
+*.tlog
+*.cache
+*.pdb
+
+# Generated files
+*.generated.cs
+*.vs/
+
+# NuGet
+*.nuget/
+.nuget/
+packages/
+.nuget/packages/
+project.lock.json
+project.assets.json
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper*/
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOS-specific
+.DS_Store
+
+# Linux-specific
+*~
+
+# Rider
+.idea/
+*.sln.iml
+
+# Coverage & Test Results
+TestResults/
+coverage/
+.coverage
+*.coverage
+*.testsettings
+*.vsmdi
+*.testresults
