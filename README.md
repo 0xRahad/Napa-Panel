@@ -6,12 +6,6 @@
 
 A Free Fire panel developed using C# for managing and controlling Free Fire game servers. This project provides a user-friendly interface to manage game settings, players, and other server-related configurations.
 
-## Features
-
-- **User Management**: Add, remove, and manage players.
-- **Server Configuration**: Easily configure game server settings.
-- **Real-time Monitoring**: Monitor server status and player activities in real-time.
-- **Customizable**: Easily extend and customize the panel to fit your needs.
 
 ## Prerequisites
 
